@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppInteractiveAuto", "BlazorAppInteractiveAuto\BlazorAppInteractiveAuto\BlazorAppInteractiveAuto.csproj", "{CFC6FF21-9055-4F39-AB65-B7C308455D13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppInteractiveAuto.Client", "BlazorAppInteractiveAuto\BlazorAppInteractiveAuto.Client\BlazorAppInteractiveAuto.Client.csproj", "{F2443BB9-9C9B-4910-9526-5F7FCC19A225}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFC6FF21-9055-4F39-AB65-B7C308455D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC6FF21-9055-4F39-AB65-B7C308455D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC6FF21-9055-4F39-AB65-B7C308455D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFC6FF21-9055-4F39-AB65-B7C308455D13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2443BB9-9C9B-4910-9526-5F7FCC19A225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2443BB9-9C9B-4910-9526-5F7FCC19A225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2443BB9-9C9B-4910-9526-5F7FCC19A225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2443BB9-9C9B-4910-9526-5F7FCC19A225}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18436551-DB77-46C5-BDB3-5F6F8A72B1E5}
+	EndGlobalSection
+EndGlobal
